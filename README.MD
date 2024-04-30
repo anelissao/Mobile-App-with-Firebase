@@ -2,6 +2,9 @@
 
 This is a simple mobile app built using HTML, CSS, JavaScript, and Firebase Realtime Database. The app allows users to create a list of movies they want to watch and mark them as watched.
 
+![Image](Screenshot_20240430-195050.png)
+![Image](Screenshot_20240430-195108.png)
+
 ## Features
 
 - Add movies to the list
