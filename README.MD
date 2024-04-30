@@ -21,7 +21,7 @@ This is a simple mobile app built using HTML, CSS, JavaScript, and Firebase Real
 
 ## Live Preview
 
-You can view a live preview of the app [here](https://662fd20b33d8c54f23b9caad--movies-list-firebase.netlify.app/).
+You can view a live preview of the app [here](https://movies-app-firebase.netlify.app/).
 
 ## License
 
